@@ -1,4 +1,4 @@
-## Hi there 👋
+## BardsAlleyBookshop Online Book store project
 
 <!--
 **BardsAlleyBookshop/BardsAlleyBookshop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
